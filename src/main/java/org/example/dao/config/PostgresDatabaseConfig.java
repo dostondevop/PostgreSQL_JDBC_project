@@ -11,7 +11,7 @@ import java.sql.SQLException;
 public class PostgresDatabaseConfig implements DatabaseConfig {
 
     private static final String USERNAME = "postgres";
-    private static final String PASSWORD = "doston2413";
+    private static final String PASSWORD = "#####";
     private static final String DATABASE = "postgres";
 
     @Override
